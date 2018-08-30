@@ -1,0 +1,4 @@
+/Users/anastasiia/Projects/hello_world/hello_world/bin/Release/hello_world.exe
+/Users/anastasiia/Projects/hello_world/hello_world/obj/x86/Release/hello_world.csproj.CoreCompileInputs.cache
+/Users/anastasiia/Projects/hello_world/hello_world/obj/x86/Release/hello_world.exe
+/Users/anastasiia/Projects/hello_world/hello_world/obj/x86/Release/hello_world.csprojAssemblyReference.cache
